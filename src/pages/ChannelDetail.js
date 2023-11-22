@@ -54,7 +54,7 @@ const ChannelDetail = () => {
             </div>
             <div className='hidden text-slate-400 md:flex  gap-1 text-base'>
               <p className='channel-title'>{snippet?.customUrl} .</p>
-              <p className='channel-subscribers-count'>{subsConvert(statistics?.subscriberCount)} .</p>
+              <p className='channel-subscribers-count'>{subsConvert(statistics?.subscriberCount)} subscribers .</p>
               <p className='channel-total-videos-count'>{statistics?.videoCount} videos</p>
             </div>
             <p className='channel-description '>{snippet?.description.length >= 80 ? snippet?.description.slice(0,40) + " ..." : snippet?.description }</p>
