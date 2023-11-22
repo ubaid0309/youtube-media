@@ -4,7 +4,6 @@
 
 <p id="description">YouTube Media is a React-based web application that harnesses the power of the YouTube v3 API provided by Rapid API to create a seamless and feature-rich media experience. This project allows users to explore search and interact with YouTube content directly from the convenience of the application.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/:anytext" alt="shields"><img src="https://img.shields.io/badge/:badgeContent" alt="shields"><img src="https://img.shields.io/badge/:badgeContent" alt="shields"><img src="https://img.shields.io/badge/:badgeContent" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
