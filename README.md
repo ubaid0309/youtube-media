@@ -5,11 +5,15 @@
     Watch videos
     Get videos based on categories
 
--App
-    -Navbar (static)
-    -Feed
+## App Structure
+    -App
+
+     -Navbar (static)
+    
+     -Feed
         -Sidebar
             -Map categories
+            
         -Videos (map all videos on VideoCard)
             -VideoCard
 
