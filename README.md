@@ -1,6 +1,6 @@
 <h1 align="center" id="title">YouTube Clone using youtube v3 API provided by RAPID API</h1>
 
-<p align="center"><img src="https://ik.imagekit.io/lsfjjc0wv/image.png?updatedAt=1700651967363" alt="project-image"></p>
+<p align="center"><img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image_akWcbrgw0.png" alt="project-screenshot"></p>
 
 <p id="description">YouTube Media is a React-based web application that harnesses the power of the YouTube v3 API provided by Rapid API to create a seamless and feature-rich media experience. This project allows users to explore search and interact with YouTube content directly from the convenience of the application.</p>
 
@@ -11,11 +11,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image_akWcbrgw0.png" alt="project-screenshot" width="600" height="600/">
+<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image4.png?updatedAt=1700655107355" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image.png?updatedAt=1700654114460" alt="project-screenshot" width="600" height="600/">
+<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image.png?updatedAt=1700654114460" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image3.png?updatedAt=1700654207738" alt="project-screenshot" width="600" height="600/">
+<img src="https://ik.imagekit.io/lsfjjc0wv/youtube-media-images/image3.png?updatedAt=1700654207738" alt="project-screenshot" width="400" height="400/">
 
   
   
