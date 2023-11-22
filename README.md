@@ -1,11 +1,11 @@
-#YouTube Clone using  youtube v3 API provided by RAPID API
+# YouTube Clone using  youtube v3 API provided by RAPID API
 
-#Features
+## Features
     .Search videos
     .Watch videos
     .Get videos based on categories
 
--App
+` -App
     -Navbar (static)
     -Feed
         -Sidebar
@@ -22,5 +22,5 @@
             - (Map videos of channel)
         
         -SearchFeed
-            -(map all videos relatd to search)
+            -(map all videos relatd to search)`
     
